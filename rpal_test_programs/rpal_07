@@ -1,0 +1,9 @@
+let mod = fn (x, y). x - (x/y)*y
+in
+let rec rev = fn (x, y).
+  x eq 0 -> y |
+  rev(x/10, y*10 + mod(x, 10))
+in
+let palindrome = fn x. x eq rev(x, 0)
+in
+Print(palindrome(123465))

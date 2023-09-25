@@ -1,16 +1,12 @@
 # RPAL Interpreter
 
-![RPAL Logo or Screenshot (if available)](rpal-interpreter-screenshot.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
